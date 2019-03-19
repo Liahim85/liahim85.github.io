@@ -26,4 +26,4 @@ My Apps may contain links to other sites. Remember that I am not responsible for
 ## 6. Email
 I can get your email address in case you decide to send me a letter with a review or suggestion. I will never share it to third parties.
 ## 7. Contact
-For all questions please contact: liahim85@mail.ru
+For all questions please contact: [liahim85@mail.ru](mailto:liahim85@mail.ru)
