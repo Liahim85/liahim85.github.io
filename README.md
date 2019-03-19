@@ -16,9 +16,11 @@ More information:
 ## 3. Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-My Apps does not use these “cookies” explicitly. However, the Apps may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+My Apps does not use these “cookies” explicitly. However, the Apps may use third party code and libraries that use “cookies” to collect information and improve their services.
 ## 4. Advertising
-Some of my Apps personalizes your advertising experience using AdMob. AdMob and its partners may collect and process personal data such as device identifiers, location data, and other demographic and interest data to provide advertising experience tailored to you.
+Some of my Apps personalizes your advertising experience using AdMob.
+
+AdMob and its partners may collect and process personal data such as device identifiers, location data, and other demographic and interest data to provide advertising experience tailored to you. For more information, see paragraph 2.
 ## 5. Links
 My Apps may contain links to other sites. Remember that I am not responsible for the privacy policies of such sites. I encourage users to know when they leave my apps and read the privacy statements of each website that collects personal information. This privacy statement applies solely to information collected by my applications.
 ## 6. Email
