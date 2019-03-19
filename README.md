@@ -8,6 +8,7 @@ If you choose to use my Apps, then you agree to the collection and use of inform
 My Apps does not collect, store, use or transfer to third parties any personal data in an explicit form.
 
 However, to improving the Apps, I use third-party services, such as Google Play Services, AdMob, Unity Analytics, Unity IAP, which may collect and process personal data. Any use of personal data by these services is governed by their privacy policy.
+
 More information:
 [Google Play Services](https://policies.google.com/privacy),
 [AdMob](https://support.google.com/admob/answer/6128543?hl=en),
