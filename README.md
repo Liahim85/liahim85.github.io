@@ -1,5 +1,5 @@
 # Privacy Policy
-This policy is effective from the 20th of March, 2019 but may change at anytime. Please check this page to ensure that you are happy with the current version of the policy.
+This policy is effective from the 19th of March, 2019 but may change at anytime. Please check this page to ensure that you are happy with the current version of the policy.
 ## 1. Introduction
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Apps.
 
