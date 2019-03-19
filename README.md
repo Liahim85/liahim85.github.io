@@ -5,9 +5,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 If you choose to use my Apps, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Apps. I will not use or share your information with anyone except as described in this Privacy Policy.
 ## 2. Information Collection and Use
-My Apps does not collect, store, use or transfer to third parties any personal data in an explicit form.
-
-However, to improving the Apps, I use third-party services, such as Google Play Services, AdMob, Unity Analytics, Unity IAP, which may collect and process personal data. Any use of personal data by these services is governed by their privacy policy.
+My Apps does not collect, store, use or transfer to third parties personal data, however, to improving the Apps, I use third-party services, such as Google Play Services, AdMob, Unity Analytics, Unity IAP, which may collect and process personal data. Any use of personal data by these services is governed by their privacy policy.
 
 More information:
 [Google Play Services](https://policies.google.com/privacy),
